@@ -1,0 +1,23 @@
+_repo: Common-Sense-for-Housemaids_59166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tytler, Ann Fraser
+    alias: Fraser-Tytler, Ann
+    birthdate: 1783
+    deathdate: 1857
+    gutenberg_agent_id: '45203'
+    url: http://www.gutenberg.org/2009/agents/45203
+description: ''
+gutenberg_issued: '2019-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Common Sense for Housemaids
+url: http://www.gutenberg.org/ebooks/59166
